@@ -1,6 +1,5 @@
 Heroku app link: https://pbp-assignment-2-catalog.herokuapp.com/katalog/
 
-QUESTIONS:
 diagram link: https://www.canva.com/design/DAFMOV6_uLI/6df5H0bh500ywN8prtcSSQ/view?utm_content=DAFMOV6_uLI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 1. Explain the flow of the diagram and how the `urls.py`, `views.py`, `models.py` and HTML files connected each other.
