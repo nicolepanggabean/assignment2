@@ -1,0 +1,113 @@
+[
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":1,
+        "fields":{
+            "watched": "True",
+            "title":"Love, Rosie",
+            "rating": "5",
+            "release_date": "2014",
+            "review": "A nice balance between humor and heartbreak. Incredibly emotional, especially since it's easy to identify with the main characters. A personal favorite."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":2,
+        "fields":{
+            "watched": "True",
+            "title":"Good Will Hunting",
+            "rating": "5",
+            "release_date": "1997",
+            "review": "Incredibly heartfelt. Cuts deep through layers of emotion, and the most perfect ending to top it all off."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":3,
+        "fields":{
+            "watched": "True",
+            "title":"Fractured",
+            "rating": "4",
+            "release_date": "2019",
+            "review": "A psychological thriller that toys with the viewers' emotions and logic. We are constantly forced to judge the main character, but unable to make a definite conclusion until the very end."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":4,
+        "fields":{
+            "watched": "True",
+            "title":"Twilight",
+            "rating": "3",
+            "release_date": "2008",
+            "review": "Not the greatest piece of cinema. Still an enjoyable film for a nostalgic night."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":5,
+        "fields":{
+            "watched": "False",
+            "title":"The Da Vinci Code",
+            "rating": "0",
+            "release_date": "2006",
+            "review": "-"
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":6,
+        "fields":{
+            "watched": "True",
+            "title":"Senior Year",
+            "rating": "4",
+            "release_date": "2022",
+            "review": "Light-hearted film with the highest of comedic highs. Loses a bit of its flair towards the end, but fun overall."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":7,
+        "fields":{
+            "watched": "True",
+            "title":"Step Up 2: The Streets",
+            "rating": "4",
+            "release_date": "2008",
+            "review": "One of the most beloved franchise sequels ever, and for good reason."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":8,
+        "fields":{
+            "watched": "False",
+            "title":"Unbroken",
+            "rating": "0",
+            "release_date": "2014",
+            "review": "-"
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":9,
+        "fields":{
+            "watched": "True",
+            "title":"Hacksaw Ridge",
+            "rating": "5",
+            "release_date": "2016",
+            "review": "A brilliant film about a brilliant person. From start to finish it is heartwarming and touching. Shedding a tear or two is not unexpected."
+        }
+},
+    {
+        "model": "mywatchlist.MyWatchList",
+        "pk":10,
+        "fields":{
+            "watched": "False",
+            "title":"Spencer",
+            "rating": "0",
+            "release_date": "2021",
+            "review": "-"
+        }
+    }
+
+]
