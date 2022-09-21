@@ -6,7 +6,6 @@
             "watched": true,
             "title": "Love, Rosie",
             "rating": 4.5,
-            "release": "Oct. 22, 2014",
             "review": "Finds the perfect balance between heartbreak and comedy. It is very easy to identify with the main characters whose chemistry truly makes the entire movie. A personal favorite from the very first watch."
         }
      },
@@ -17,7 +16,6 @@
             "watched": true,
             "title": "Senior Year",
             "rating": 4.0,
-            "release": "May 13, 2022",
             "review": "Reaches the highest of comedic highs, but loses a bit of its flair towards the end. Otherwise an enjoyable movie that will keep you entertained the whole way through."
         }
      },
@@ -28,7 +26,6 @@
             "watched": true,
             "title": "Good Will Hunting",
             "rating": 4.8,
-            "release": "Dec. 5, 1997",
             "review": "Near-perfect cinema. Hooks you in the beginning, keeps you tense in the middle, and provides you with the most perfect, satisfactory ending possible."
         }
      },
@@ -39,7 +36,6 @@
             "watched": true,
             "title": "Fractured",
             "rating": 4.1,
-            "release": "Sept. 22, 2019",
             "review": "A psychological thriller that toys with the viewers' emotions and logic. We are constantly forced to judge the main character, but unable to make a definite conclusion until the very end."
         }
      },
@@ -50,7 +46,6 @@
             "watched": false,
             "title": "The Da Vinci Code",
             "rating": 0.0,
-            "release": "May 19, 2006",
             "review": "-"
         }
      },
@@ -61,7 +56,6 @@
             "watched": true,
             "title": "Twilight",
             "rating": 3.5,
-            "release": "Dec. 3, 2008",
             "review": "Not the greatest piece of cinema. Still an enjoyable film for a nostalgic night."
         }
      },
@@ -72,7 +66,6 @@
             "watched": true,
             "title": "Step Up 2: The Streets",
             "rating": 4.3,
-            "release": "Feb. 14, 2008",
             "review": "One of the most beloved franchise sequels ever, and for good reason."
         }
      },
@@ -83,7 +76,6 @@
             "watched": false,
             "title": "Unbroken",
             "rating": 0.0,
-            "release": "Dec. 25, 2014",
             "review": "-"
         }
      },
@@ -94,7 +86,6 @@
             "watched": true,
             "title": "Hacksaw Ridge",
             "rating": 5.0,
-            "release": "Nov. 4, 2016",
             "review": "A brilliant film about a brilliant person. From start to finish it is heartwarming and touching. Shedding a tear or two is not unexpected."
         }
      },
@@ -105,7 +96,6 @@
             "watched": false,
             "title": "Spencer",
             "rating": 0.0,
-            "release": "Nov. 5, 2021",
             "review": "-"
         }
      }
